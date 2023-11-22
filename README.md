@@ -4,3 +4,4 @@
 <p>The code is heavily commented to help understand the code better. Additional information and explanations are in markdown cells (especially for the last task). </p>
 
 <h3> <a href="https://colab.research.google.com/drive/1-dws018SDYCZy48mBJCMw8LF2le31LJE?usp=sharing">Assignment 2 Colab Link</a></h3>
+<h3> <a href="https://colab.research.google.com/drive/1j4I1iVzW0DlXZQmpxlkhUHBlAfnquu7C?usp=sharing">Assignment 3 Colab Link</a></h3>
